@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "outsystems": {
+      "type": "http",
+      "url": "https://personal-q6t7s46o.outsystems.dev/mcp",
+      "timeout": 100000
+    }
+  }
+}
