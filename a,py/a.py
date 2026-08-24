@@ -1,1 +1,1 @@
-print(a+d+c)
+print(a)
