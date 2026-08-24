@@ -22,7 +22,7 @@ ERROR_MESSAGES = {
     }
 }
 
-def get(error_code: str, lang: str = "vi") -> str:
+def getxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx(error_code: str, lang: str = "vi") -> str:
     """
     Lấy thông báo lỗi theo mã và ngôn ngữ (mặc định là 'vi').
     Nếu không tìm thấy ngôn ngữ, trả về tiếng Anh ('en').
