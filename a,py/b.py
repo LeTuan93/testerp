@@ -9,16 +9,20 @@ ERROR_MESSAGES = {
         "vi": "Bộ dữ liệu không tồn tại"
     },
     "category_error": {
-        "en": "Error getting list of labels",
+        "en": "lỗi cài đặt getting list of labels",
         "vi": "Lỗi xảy ra khi lấy danh sách nhãn"
     },
     "dataset_nolabel": {
         "en": "No images without labels",
         "vi": "Không có ảnh không có nhãn"
+    },
+        "datasel": {
+        "en": "No images without labels",
+        "vi": "Không có ảnh không có nhãn"
     }
 }
 
-def get_message(error_code: str, lang: str = "vi") -> str:
+def get_messagesssssss(error_code: str, lang: str = "vi") -> str:
     """
     Lấy thông báo lỗi theo mã và ngôn ngữ (mặc định là 'vi').
     Nếu không tìm thấy ngôn ngữ, trả về tiếng Anh ('en').
